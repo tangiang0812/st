@@ -206,6 +206,7 @@ ResourcePref resources[] = {
 		{ "chscale",      FLOAT,   &chscale },
 };
 
+
 /*
  * Internal mouse shortcuts.
  * Beware that overloading Button1 will disable the selection.
